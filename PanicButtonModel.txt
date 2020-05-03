@@ -1,0 +1,19 @@
+               PanicButtonMembers
+			   
+			   
+PanicButtonMembersId			int
+HaloMemberId					int
+Imie							string
+MemberId						string
+MemberFirstName					string
+MemberLastName					string
+Address1						string
+Address2						string
+City							string
+Email							string
+CellPhone
+EmergencyContactName			string
+EmergencyContactCellPhone		string
+EmergencyContactName1			string
+EmergencyContactCellPhone1		string
+
